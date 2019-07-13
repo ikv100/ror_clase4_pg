@@ -1,24 +1,10 @@
 # README
+Proyecto creado pero con base de datos de PostgreSQL, comando utilizado es 
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+rails new NOMBRE_PROYECTO -d pg
 
-Things you may want to cover:
+Pero si no funciona tengo que hacer un proyecto normal y luego agregar la gema de PostgreSQL.
+gem install pg
 
-* Ruby version
 
-* System dependencies
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
